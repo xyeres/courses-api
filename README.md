@@ -1,11 +1,15 @@
 # rest-api-sql-v3
 You are looking at a fully functioning REST API built with Express and the Sequelize ORM.
 
+### Links
+- [Live site](https://courses-serve.herokuapp.com/)
+
+
 To get running:
 - Download source
 - `cd` to source
 - `npm install`
-- `npm run seend` to get db populated
+- `npm run seed` to get db populated
 - `npm start`
 
 I have implemented the Exceeds Expectations project requirements including: 
