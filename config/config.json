@@ -9,6 +9,6 @@
   },
   "production": {
     "dialect": "sqlite",
-    "storage": "production.db"
+    "storage": "productionFresh.db"
   }
 }

@@ -39,21 +39,21 @@
       "userId": 3,
       "title": "How to Mow the Lawn",
       "description": "Many homeowners see mowing the lawn as an unwelcome chore, while others view it as an opportunity to beautify their property. When done properly, mowing supports green, healthy grass, and reduces weeds and bare spots. With a bit of practice, you can even mow eye-pleasing patterns into your lawn!",
-       "estimatedTime": "30 mins",
+      "estimatedTime": "30 mins",
       "materialsNeeded": "* Lawnmower \n* Sunshine"
     },
     {
       "userId": 3,
       "title": "How to Get an A Without Reading the Book",
       "description": "It happens. You had so many other assignments for so many other classes that you just didn't have time to cram everything in. This article will help you manage to swing an A without reading the book. Note: this focuses chiefly on literature, but the method can be applied to any book or class with some slight tweaking.",
-       "estimatedTime": "15 mins",
+      "estimatedTime": "15 mins",
       "materialsNeeded": "* If there is a movie adaptation of the book, watch it. \n* If the book has a Wikipedia page, read it. \n* Go to the Sparknotes and/or CliffsNotes websites. \n* If your book is not on these websites, do a Google search on the book title."
     },
     {
       "userId": 3,
       "title": "How to Walk",
       "description": "Walking is one of the best low-impact exercises, and it's also one of the cheapest and most convenient ways to get healthier; however, many Americans walk less than half of the daily recommended steps. Walking can reduce your risk of heart disease and cancer, while reducing chronic pain and stress.",
-       "estimatedTime": "5 mins",
+      "estimatedTime": "5 mins",
       "materialsNeeded": "* Walkin' Shoes \n* Legs"
     },
     {
