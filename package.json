@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node ./app.js",
-    "heroku-postbuild": "npm run seed",
+    "start": "npm run seed",
+    "heroku-postbuild": "node ./app.js",
     "seed": "cross-env DB_ENABLE_LOGGING=true node './seed'"
   },
   "keywords": [],
