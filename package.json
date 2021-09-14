@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js",
-    "build": "npm run seed",
+    "heroku-postbuild": "npm run seed",
     "seed": "cross-env DB_ENABLE_LOGGING=true node './seed'"
   },
   "keywords": [],
