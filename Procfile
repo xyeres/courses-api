@@ -1,1 +1,0 @@
-web: ./bin/www npm run seed && npm start
