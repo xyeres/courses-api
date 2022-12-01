@@ -1,10 +1,6 @@
 # rest-api-sql-v3
 You are looking at a fully functioning REST API built with Express and the Sequelize ORM.
 
-### Links
-- [Live site](https://courses-serve.herokuapp.com/)
-
-
 To get running:
 - Download source
 - `cd` to source
